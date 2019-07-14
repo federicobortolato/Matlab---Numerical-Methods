@@ -1,0 +1,19 @@
+Molte descrizioni dei metodi commentate in script. 
+
+Risultati direi coerenti con quanto previsto. Tutte le function le ho derivate da quelle presenti in moodle per avere 
+un aspetto più uniforme. Se devo essere sincero ho trovato qualche difficoltà nel capire le costanti asintotiche, ma questo 
+è più un problema di teoria; spero siano corrette. 
+
+Per quanto riguarda il primo esercizio, ho qualche dubbio sulle stime degli errori del metodo di newton nei punti c e g
+visto che risultano minori (anche di molto) della precisione di macchina. Sempre sul metodo di Newton al punto g, converge in modo 
+alquanto bizzzarro -e lento - (da grafico) con due serie di oscillazioni e poi la convergenza. Tutti i metodi convergono al medesimo
+risultato, che riterrei dunque esatto. 
+
+Per quanto riguarda il secondo esercizio, entrambi i metodi convergono molto rapidamente, anche se, come da grafico, con
+andamenti diversi (in scala logaritmica). Sono incerto sull'esattezza delle costanti asintotiche, ripeto come sopra.
+
+
+
+P.S.	Avevo consegnato in tempo, poi mi sono accorto che mancava la relazione e ho provato ad aggiornare il pacchetto, (riuscito)
+non pensavo si potesse.
+
